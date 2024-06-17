@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FutureXSparkScalaProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c4531ba-547a-41cb-b898-08e89ea06d8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="1ZoCf5WH9IwS3bOibGJZtQJ9XJC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FutureXSparkTransformer">
+    <configuration name="FutureXSparkTransformer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FutureXSparkTransformer" />
+      <module name="FutureXSparkScalaProject" />
+      <option name="PROGRAM_PARAMETERS" value="dev hive" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FutureXSparkScalaProject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="FirstSpec" />
+      <option name="workingDirectory" value="C:$PROJECT_DIR$/../../../../../../../futur/Desktop/spark-scala/FutureXSparkScalaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstSpec.A Stack should pop values in last-in-first-out order" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FutureXSparkScalaProject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="FirstSpec" />
+      <option name="workingDirectory" value="C:$PROJECT_DIR$/../../../../../../../futur/Desktop/spark-scala/FutureXSparkScalaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FutureXSparkTransformer" />
+      <item itemvalue="ScalaTest.FirstSpec" />
+      <item itemvalue="ScalaTest.FirstSpec.A Stack should pop values in last-in-first-out order" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FutureXSparkTransformer" />
+        <item itemvalue="ScalaTest.FirstSpec.A Stack should pop values in last-in-first-out order" />
+        <item itemvalue="ScalaTest.FirstSpec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c4531ba-547a-41cb-b898-08e89ea06d8d" name="Default Changelist" comment="" />
+      <created>1585496159685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585496159685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="0" key="#FutureXSparkScalaProject_[package]" timestamp="1586854623390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="0" key="#FutureXSparkScalaProject_[package]/0.0.1366.728@0.0.1366.728" timestamp="1586854623390" />
+    <state x="400" y="34" key="#FutureXSparkTransformer" timestamp="1588909508044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="34" key="#FutureXSparkTransformer/0.0.1366.728@0.0.1366.728" timestamp="1588909508044" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1587221850587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587221850587" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586591816113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586591816113" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588909849698">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588909849698" />
+    <state x="401" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586858534384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="401" y="142" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586858534384" />
+    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585496263170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1585496263170" />
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588908835528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1588908835528" />
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1587705952341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587705952341" />
+    <state width="1323" height="276" key="GridCell.Tab.0.bottom" timestamp="1588913458997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="276" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588913458997" />
+    <state width="1323" height="276" key="GridCell.Tab.0.center" timestamp="1588913458997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="276" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588913458997" />
+    <state width="1323" height="276" key="GridCell.Tab.0.left" timestamp="1588913458997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="276" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588913458997" />
+    <state width="1323" height="276" key="GridCell.Tab.0.right" timestamp="1588913458997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="276" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588913458997" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard" timestamp="1587705968970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1587705968970" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1586858560534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586858560534" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587705873193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587705873193" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1586854021785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586854021785" />
+  </component>
+</project>
